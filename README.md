@@ -17,7 +17,7 @@ A Demo app displaying the status of tube lines accessing TFL REST API at https:/
 - Build and run the app
 
 # Preview
-<img src="/TFL/TFLTubeStatus.png"/>
+<img src="/TFLTubeStatus.png"/>
 
 ### **Further improvements that could be done with additional time**
 - Localisation
